@@ -1,8 +1,8 @@
 # Hotel-Portfolio-Investment-Strategy-for-PowerBI-Dataviz-World-Champs-2027
 Executive-ready 2-page Power BI dashboard for P&amp;K Select (40 properties). Analyzes 2025 financial baselines and optimizes a $135M capital investment portfolio. Built for the Power BI Dataviz World Champs 2027.
 
-
 # 🏨 P&K Select: Brand Review & Strategic Investment Dashboard
+🔗 **[View Official Submission on Microsoft Fabric Community Gallery](https://community.fabric.microsoft.com/discussions/pbi_contestsgallery/pk-select-brand-review--strategic-investment-portfolio/5425605)**
 
 An executive-ready, 2-page Power BI business intelligence solution built for the **Power BI Dataviz World Champs 2027**. 
 
